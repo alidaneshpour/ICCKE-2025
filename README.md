@@ -11,10 +11,11 @@ This repository contains the source code for the paper "Balanced Learning with O
 ## Citation
 If you find this repository useful in your research, please cite our following paper:
 ```
-@article{Daneshpour2025,
+@inproceedings{daneshpour2025balanced,
   title={Balanced Learning with Optimized Extra Trees Classifier for Reliable Lithology Identification in Imbalanced Well Log Data},
-  author={Feng, Yifan and Ji, Shuyi and Liu, Yu-Shen and Du, Shaoyi and Dai, Qionghai and Gao, Yue},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  author={Daneshpour, Ali and Yousefimehr, Behnam and Ghatee, Mehdi},
+  booktitle={2025 15th International Conference on Computer and Knowledge Engineering (ICCKE)},
+  pages={1--6},
   year={2025},
-  publisher={IEEE}
+  organization={IEEE}
 }
